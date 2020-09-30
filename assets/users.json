@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "age": 23,
+    "name": "Bird Ramsey",
+    "gender": "male",
+    "email": "birdramsey@nimon.com"
+  },
+  {
+    "id": 1,
+    "age": 31,
+    "name": "Lillian Burgess",
+    "gender": "female",
+    "email": "lillianburgess@luxuria.com"
+  },
+  {
+    "id": 2,
+    "age": 34,
+    "name": "Kristie Cole",
+    "gender": "female",
+    "email": "kristiecole@quadeebo.com"
+  },
+  {
+    "id": 3,
+    "age": 30,
+    "name": "Leonor Cross",
+    "gender": "female",
+    "email": "leonorcross@gronk.com"
+  },
+  {
+    "id": 4,
+    "age": 28,
+    "name": "Marsh Mccall",
+    "gender": "male",
+    "email": "marshmccall@ultrimax.com"
+  }  
+]

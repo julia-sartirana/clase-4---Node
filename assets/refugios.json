@@ -1,0 +1,75 @@
+[
+  {
+    "id": 0,
+    "name": "Adopta un amigo",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Distrito Federal",
+    "email": "erros@adoptaunamigo.org"
+  },
+  {
+    "id": 1,
+    "name": "Amigos pro animal",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Aguascalientes",
+    "email": "amigosproanimalac@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "AVPCA",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Baja California Norte",
+    "email": "lizbeth_avpca@hotmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Pro animal Campeche",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Campeche",
+    "email": "eproanimalcampeche@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Aprodea",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Chihuahua",
+    "email": "morfin_alma@hotmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Animare",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Guanajuato",
+    "email": "eanimare.fondos@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Pet Help",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Jalisco",
+    "email": "portilla.maricarmen@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Arpa",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Sinaloa",
+    "email": "arpaiap@hotmail.com"
+  },
+  {
+    "id": 9,
+    "name": "Amichaa",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Michoacan",
+    "email": "amichaa@hotmail.com"
+  },
+  {
+    "id": 10,
+    "name": "Adopta Obregon",
+    "longDesc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit libero dolorum aliquam error expedita distinctio porro ducimus ex repellendus laboriosam. Sequi, doloribus autem? Unde commodi assumenda consequatur ratione numquam distinctio nihil blanditiis quae debitis sed eligendi modi architecto omnis aspernatur officia molestiae, vero nemo a quibusdam? Voluptatum eveniet blanditiis impedit.",
+    "location": "Sonora",
+    "email": "adoptaobregon@hotmail.com"
+  },
+  {
+    "id": 10
+  }
+]
